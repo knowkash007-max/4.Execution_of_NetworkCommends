@@ -27,8 +27,8 @@ This commands includes
 <BR>
 
 ## Output
-## ipconfig
-<img width="1918" height="985" alt="image" src="https://github.com/user-attachments/assets/3657ef83-9ee4-4559-aaaf-7aa551066ec9" />
+## ipconfig<img width="1507" height="772" alt="image" src="https://github.com/user-attachments/assets/d992943c-0673-44b0-bde3-13c610163a67" />
+
 ## arp
 <img width="1917" height="977" alt="image" src="https://github.com/user-attachments/assets/31cbc500-4a02-4e0e-8452-524759b501e3" />
 ## getmac
