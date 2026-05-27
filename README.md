@@ -30,9 +30,10 @@ This commands includes
 ## ipconfig<img width="1507" height="772" alt="image" src="https://github.com/user-attachments/assets/d992943c-0673-44b0-bde3-13c610163a67" />
 
 ## arp
-<img width="1917" height="977" alt="image" src="https://github.com/user-attachments/assets/31cbc500-4a02-4e0e-8452-524759b501e3" />
+<img width="1088" height="787" alt="image" src="https://github.com/user-attachments/assets/8d1ad0f4-4d1d-48a0-b2d3-075851c3b086" />
+
 ## getmac
-<img width="1427" height="310" alt="image" src="https://github.com/user-attachments/assets/2ee4d54b-fa47-4843-989f-de25d9da777a" />
+<img width="1167" height="177" alt="image" src="https://github.com/user-attachments/assets/18a33444-6e35-4eb7-9747-c7b388fff60b" />
 
 ## Result
 Thus Execution of Network commands Performed 
